@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MySon",
   "resources": {
-    "hash": "sha256-Pd5foV4PAQyKw/p5KaKaP0lmxjKQj9Hu/wQR+Z+SW8Q=",
+    "hash": "sha256-H/CYhZykrMywgCCONnQAaxw6fcp6AHDbb4eTsW+8yeA=",
     "jsModuleNative": {
       "dotnet.native.8.0.6.bjtr7hr834.js": "sha256-YU6M9+jtDVnB8/wtrgIndOstzNh778Ls8g9XnbjorSk="
     },
@@ -34,7 +34,7 @@
       "Microsoft.JSInterop.wasm": "sha256-Zf9aEUyIbFr0zhEm1l0Qegf0X6syx4UnSYhzv0lI5SA=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-nJo9AftA2/mHxtXapqHsgjzQgIHOpue2DnVtxkgTSME=",
       "MudBlazor.wasm": "sha256-sGDq49aYyhpEDkn0GEDNm6R5qVkylOE+32KPqBvkS8w=",
-      "MySon.wasm": "sha256-4ixwzVWpVlimiYJEFKBKj7VDoTjRBrji6909CtEbdkA=",
+      "MySon.wasm": "sha256-fK77jkMbU6ZY15sUOH/H0klMM88YghehFnA2yl5QYMI=",
       "System.Collections.Concurrent.wasm": "sha256-MM3kEs+U7IXPPa+/xSsZB/SbwVoKIPIH931SYOw8G/g=",
       "System.Collections.Immutable.wasm": "sha256-xg8IqNwYNGXfsBaHPTRQ/F9BtrbFBhNweL7wrGWxMPo=",
       "System.Collections.wasm": "sha256-EF/L6KuedmAVNWPDhhFJJzLBkCtDpZg1uSaOjjO4ba0=",

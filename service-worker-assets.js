@@ -25,7 +25,11 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-Cb4EOdQEM2cttkqyLTpTdB0kFyj0\/E0QZhcvuhgxiL4=",
+      "hash": "sha256-FNweLgFE8Z2vaY3c6umJ6wjEf3Kpcncr5j33qReiEuE=",
+      "url": "image\/Pé Gấu.png"
+    },
+    {
+      "hash": "sha256-CKAfahmWkPxjXiKve2yXpCj2742ywMAfYIH7I1knWuA=",
       "url": "index.html"
     },
     {
@@ -37,7 +41,7 @@
       "url": "sample-data\/slide-data.json"
     },
     {
-      "hash": "sha256-T1PNoYwrqgwDVLtfmj7L5e0Sq02OEbqHPC8RFhICuUU=",
+      "hash": "sha256-UkzTUM1tFVfqPN1l\/ugswreAFThO3kXp\/IQsvKQZfCM=",
       "url": "sample-data\/time-line-data.json"
     },
     {
@@ -77,7 +81,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-XGLqefHzrUI2zZ4j0aGIlEBEI9VhDXaSbZ8MbgmfAKY=",
+      "hash": "sha256-v61MKMnD7DTvWZ1baQyBDuNom+qhVgV\/bIbEHvdU6xQ=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -145,11 +149,11 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.wasm"
     },
     {
-      "hash": "sha256-sGDq49aYyhpEDkn0GEDNm6R5qVkylOE+32KPqBvkS8w=",
+      "hash": "sha256-Rpu7SggZTaq0HY54xs+tF\/0GpaWhgFd8UCGeGB003Y4=",
       "url": "_framework\/MudBlazor.wasm"
     },
     {
-      "hash": "sha256-fK77jkMbU6ZY15sUOH\/H0klMM88YghehFnA2yl5QYMI=",
+      "hash": "sha256-V1z4RjvslfivBu0JRJh94QdOfFc5t6luSyhlqUDN4OE=",
       "url": "_framework\/MySon.wasm"
     },
     {
@@ -201,7 +205,7 @@
       "url": "_framework\/System.Net.Primitives.wasm"
     },
     {
-      "hash": "sha256-kqmuIDfBbUJEnygH9FoFRMYl1L\/wTEi+lkqvfplLNMk=",
+      "hash": "sha256-q5INDcDpRS+xlqTMcLx\/SrSo4FhZd67ancLHBchuOOw=",
       "url": "_framework\/System.Private.CoreLib.wasm"
     },
     {
@@ -213,7 +217,7 @@
       "url": "_framework\/System.Runtime.InteropServices.JavaScript.wasm"
     },
     {
-      "hash": "sha256-FDpod7o3Yybpm8UELm0KShA7+qacvgIBOmd+OSfFD50=",
+      "hash": "sha256-namSVAZVp9ZO1b8aI7vCBVjuu31FCsbv4oLawr3MMCs=",
       "url": "_framework\/System.Runtime.wasm"
     },
     {
@@ -241,5 +245,5 @@
       "url": "_content\/MudBlazor\/MudBlazor.min.js"
     }
   ],
-  "version": "UuGjhuq7"
+  "version": "WrcuqxHC"
 };
